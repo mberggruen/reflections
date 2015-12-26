@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 	-It's temporary.
 	-It allows the sorting of changes into logical units
 	-Allows for one last overview before commiting
+	
+How can you use the staging area to make sure you have one commit per logical change?
+	-git diff to compare working directory to staging area
+	-git diff --staged compare staging area to latest commit
