@@ -9,3 +9,7 @@ Describe the differences between forks, clones, and branches. When would you use
   -Forks to spin off another programmer's project
   -Clone creating an independant spinoff of a given project
   -Branch split off development of a given feature
+  
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  -Can track potential conflicts from collaborators working with the same files
+  -Easier to work detached from the git repo
